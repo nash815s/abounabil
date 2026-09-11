@@ -111,7 +111,6 @@ h1, h2, p {
 
 .tagline {
   font-size: clamp(21px, 4.5vw, 27px);
-  max-width: 30ch;
   color: var(--ink);
 }
 
